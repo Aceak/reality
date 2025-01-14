@@ -23,7 +23,6 @@ var (
 	ErrDecryptFailed = errors.New("decrypt failed")
 	ErrProxyDie      = errors.New("proxy die")
 )
-
 var Prefix = []byte("REALITY")
 
 const DefaultExpireSecond = 30
