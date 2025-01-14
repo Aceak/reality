@@ -24,7 +24,6 @@ go.work.sum
 # env file
 .env
 config.json
-dist/
 cmd/grss/client/grs*
 cmd/grss/files.go
 .vscode/
